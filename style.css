@@ -46,7 +46,9 @@
        font-family: var(--primer-font-family);
     
     }
-     .icon-nav {
+    
+ 
+ .icon-nav {
         width: 10%;
         cursor:pointer;
     }
@@ -61,7 +63,7 @@
         transition: 0.5s;
       }
 
-      .hero{
+      .menu {
         background-color: #8BC6EC;
 background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
 display: flex;
